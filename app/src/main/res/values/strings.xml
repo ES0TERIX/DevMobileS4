@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MathGame</string>
+    <string name="boutonJeu">Jouer</string>
+    <string name="boutonHighscore">Highscore</string>
+</resources>
